@@ -1,0 +1,6 @@
+Instance,N,IPL_solver_Time,IPL_solver_Iter,IPL_solver_Branch,IPL_updated_Time,IPL_updated_Iter,IPL_updated_Branch,Branch_Gain
+Spd_RF2_100_174_2003.txt,100,7.795,62,25,7.744,62,17,8
+Spd_RF2_20_27_211.txt,20,0.107,2,1,0.234,3,2,-1
+Spd_RF2_20_27_219.txt,20,0.28,2,2,0.185,2,2,0
+Spd_RF2_40_92_771.txt,40,0.18,2,1,1.583,18,3,-2
+Spd_RF2_80_106_1483.txt,80,4.805,46,26,2.933,20,15,11
